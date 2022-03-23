@@ -20,7 +20,6 @@ I chose Computer Science as an additional subject at school. After that I pursue
 <p align="left">
 <a href="https://www.linkedin.com/in/prachi-singh-sherawat-69a8b4228/" target="blank"><img align="center" margin-left ="400px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
 <a href="https://instagram.com/prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
-<a href="https://hashnode.com/@prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prachisinghsherawat" height="50" width="80" /></a>
 <a href="https://www.leetcode.com/prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
 </p><br>
 
