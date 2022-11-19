@@ -12,7 +12,7 @@ I chose Computer Science as an additional subject at school. After that I pursue
 
 - 📫 How to reach me **prachisinghsherawat@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1Y5NZGLLHcc0f48R08t2YFGiF6W0yPpWh/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1Gu0dNc8NydBPzJCnlWMxKKBhyIzKk_0L/view?usp=share_link)
 
 - ⚡ Fun fact **I think i am Over Extrovert**<br><br><br>
 
