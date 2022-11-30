@@ -6,7 +6,7 @@ I chose Computer Science as an additional subject at school. After that I pursue
 
 <img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack Developer**
 
 - 📝 I regularly write articles on [https://prachisinghsherawat.hashnode.dev/](https://prachisinghsherawat.hashnode.dev/)
 
