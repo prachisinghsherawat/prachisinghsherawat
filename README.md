@@ -1,7 +1,7 @@
 ![MasterHead](https://skillshipfoundation.com/wp-home2/2020/01/learn-to-code.jpg)
 <h1 align="center">Hi 👋, I'm Prachi Singh</h1>
 <h3 align="center"> A passionate Full Stack Web developer from India </h3><br>
-<p  align="center" > I am learning MERN Full Stack Web Development at Masai School.
+<p  align="center" > I learned MERN Full Stack Web Development at Masai School.
 I chose Computer Science as an additional subject at school. After that I pursued Diploma in Computer Science and finally decided to do my specialization in web development. </p><br><br>
 
 <img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
