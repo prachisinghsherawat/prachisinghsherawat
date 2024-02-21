@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Singh</h1>
 <h3 align="center"> A passionate Full Stack Web developer from India </h3><br>
 <p  align="center" > I learned MERN Full Stack Web Development at Masai School.
-I chose Computer Science as an additional subject at school. After that I pursued Diploma in Computer Science and finally decided to do my specialization in web development. </p><br><br>
+Confident and solution-driven full stack web developer with a strong inclination towards UI-based development and a passion for MERN stack (MongoDB, Express.js, React.js, Node.js). Eager to create engaging and visually appealing web applications while continuously expanding my skills and knowledge. </p><br><br>
 
 <img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
 
