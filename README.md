@@ -6,7 +6,6 @@ Confident and solution-driven full stack web developer with a strong inclination
 
 <img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
 
-
 - 🌱 I’m **MERN Stack Developer**
 
 - 📝 I regularly write articles on [https://prachisinghsherawat.hashnode.dev/](https://prachisinghsherawat.hashnode.dev/)
