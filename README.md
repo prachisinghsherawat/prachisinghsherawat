@@ -14,7 +14,7 @@ Confident and solution-driven full stack web developer with a strong inclination
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1G1bPAfrX_3V52TsM0q5pyrScSWeD321k/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think i am Over Extrovert**<br><br><br>
+- ⚡ Fun fact is that **I think i am Over Extrovert**<br><br><br>
 
 <h2 align="left" margin-top="70px">Connect with me:</h2>
 <p align="left">
