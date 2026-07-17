@@ -1,4 +1,3 @@
-![MasterHead](https://skillshipfoundation.com/wp-home2/2020/01/learn-to-code.jpg)
 <h1 align="center">Hi 👋, I'm Prachi Singh</h1>
 <h3 align="center"> A passionate Full Stack Web developer from India </h3><br>
 <p  align="center" >
