@@ -1,32 +1,43 @@
-<h1 align="center">Hi 👋, I'm Prachi Singh</h1>
-<h3 align="center"> A passionate Full Stack Web developer from India </h3><br>
-<p  align="center" >
-Confident and solution-driven full stack web developer with a strong inclination towards UI-based development and a passion for MERN stack (MongoDB, Express.js, React.js, Node.js). Eager to create engaging and visually appealing web applications while continuously expanding my skills and knowledge. </p><br><br>
+<div align="center">
 
-<img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
+# Hi, I'm Prachi Singh 👋
 
-- 🌱 I’m **MERN Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B8B8B&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Clean%2C+Thoughtful+Interfaces" alt="Typing SVG" />
 
-- 📝 I regularly write articles on [https://prachisinghsherawat.hashnode.dev/](https://prachisinghsherawat.hashnode.dev/)
+<p>
+I'm a full stack web developer based in India with a strong inclination towards UI-focused development and a deep interest in the MERN stack. I care about writing clean, maintainable code and building interfaces that feel intuitive to use — and I'm always looking for the next thing to learn.
+</p>
 
-- 📫 How to reach me **prachisinghsherawat@gmail.com**
+</div>
+<br />
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1G1bPAfrX_3V52TsM0q5pyrScSWeD321k/view?usp=drivesdk)
+### 🌱 About Me
 
-- ⚡ Fun fact is that **I think i am 90% caffeine**<br><br><br>
+- Currently working as a **MERN Stack Developer**
+- Write occasionally over on [Hashnode](https://prachisinghsherawat.hashnode.dev/)
+- [View my resume](https://drive.google.com/file/d/1G1bPAfrX_3V52TsM0q5pyrScSWeD321k/view?usp=drivesdk) for a closer look at my experience
+- Reach me anytime at **prachisinghsherawat@gmail.com**
+- Fun fact — I run on approximately 90% caffeine ☕
+<br/>
 
-<h2 align="left" margin-top="70px">Connect with me:</h2>
+### 🔗 Connect
+
 <p align="left">
-<a href="https://www.linkedin.com/in/prachi-singh-sherawat-69a8b4228/" target="blank"><img align="center" margin-left ="400px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
-<a href="https://instagram.com/prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
-<a href="https://www.leetcode.com/prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
-</p><br>
+<a href="https://www.linkedin.com/in/prachi-singh-sherawat-69a8b4228/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42" /></a>
+<a href="https://instagram.com/prachisinghsherawat" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="42" /></a>
+<a href="https://leetcode.com/prachisinghsherawat" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="42" /></a>
+</p>
+<br/>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="70" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="70" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="70" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="70" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  width="70" height="50" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="90" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="70" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="70" height="50"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> </a> </p> <br><br>
+### 🛠️ Languages & Tools
 
-<p><img align="center" width="1900px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisinghsherawat&show_icons=true&locale=en&layout=compact" alt="prachisinghsherawat" /></p> <br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwindcss,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,webpack&theme=light" alt="Skills" />
+</p>
+<br/>
 
-<p>&nbsp;<img align="center"  width="1900px" height="250px"  src="https://github-readme-stats.vercel.app/api?username=prachisinghsherawat&show_icons=true&locale=en" alt="prachisinghsherawat" /></p>
+### 🔍 Currently Exploring
 
-
+- Deepening my understanding of system design and scalable backend architecture
+- Sharpening my DSA and problem-solving skills on LeetCode
+- Exploring modern UI/UX patterns for React applications
